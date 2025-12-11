@@ -1,8 +1,7 @@
 # Welding Fixture Design for Accurate T-Joint Fabrication  
 [![CAD](https://img.shields.io/badge/CAD-SolidWorks-blue)](https://github.com/swati-Mech/welding-fixture-tjoint/tree/main/cad)
-![Domain](https://img.shields.io/badge/Domain-Mechanical%20Design-green)
-![Type](https://img.shields.io/badge/Project-Welding%20Fixture-lightgrey)
-![Status](https://img.shields.io/badge/Case%20Study-A1%20Launchpad-success)
+[![Docs](https://img.shields.io/badge/Folder-Docs-blue)](https://github.com/swati-Mech/welding-fixture-tjoint/tree/main/docs)
+[![Images](https://img.shields.io/badge/Folder-Images-orange)](https://github.com/swati-Mech/welding-fixture-tjoint/tree/main/images)
 
 Welding fixture designed for accurate and repeatable fabrication of a 90° T-joint between two square tubes  
 (50×50×150 mm and 50×50×200 mm). :contentReference[oaicite:2]{index=2}  
