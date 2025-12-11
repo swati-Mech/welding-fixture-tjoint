@@ -1,5 +1,5 @@
 # Welding Fixture Design for Accurate T-Joint Fabrication  
-![CAD](https://img.shields.io/badge/CAD-SolidWorks-blue)
+[![CAD](https://img.shields.io/badge/CAD-SolidWorks-blue)](https://github.com/swati-Mech/welding-fixture-tjoint/tree/main/cad)
 ![Domain](https://img.shields.io/badge/Domain-Mechanical%20Design-green)
 ![Type](https://img.shields.io/badge/Project-Welding%20Fixture-lightgrey)
 ![Status](https://img.shields.io/badge/Case%20Study-A1%20Launchpad-success)
